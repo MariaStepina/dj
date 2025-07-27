@@ -1,0 +1,3 @@
+[submodule "django-sprint4"]
+	path = django-sprint4
+	url = https://github.com/MariaStepina/django-sprint4.git
